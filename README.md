@@ -20,7 +20,6 @@ Point a miner at the tier that fits your hardware:
 
 ```
 stratum+tcp://stratum.sololuck.io:3333   # Jakarta
-stratum+tcp://us.stratum.sololuck.io:3333   # Phoenix
 stratum+tcp://sg.stratum.sololuck.io:3333   # Singapore door
 ```
 
